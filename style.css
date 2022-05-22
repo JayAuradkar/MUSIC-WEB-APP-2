@@ -1,0 +1,27 @@
+body{
+    background-image: url("MEGA SPEKER.png");
+   background-size: contain;
+   }
+   h3{
+       width: 100%;
+       margin-top: 0%;
+   }
+   #AIDJ{
+       font-size: x-large;
+   }
+   img{
+       width: 250px;
+   }
+   #div_speed{
+       float: left;
+   }
+   #div_volume{
+       float: right;
+   }
+   canvas{
+       border-width: 5px;
+       border-style:groove;
+       box-shadow: 10px 10px 50px white;
+       background-color: black;
+
+   }
